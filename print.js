@@ -1,5 +1,5 @@
 import Impresora from '@/modules/print/Impresora'
-
+/*****YZX0MAKER <www class="twitter com">@YZX0Long*/
 export default {
     namespaced: true,
     state: {
